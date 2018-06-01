@@ -1,6 +1,6 @@
-# Project Title
+# Compact Dialog Windows
 
-A fork of the wonderful Tinny File Dialogs (https://sourceforge.net/projects/tinyfiledialogs/)
+A fork of the wonderful Tiny File Dialogs (https://sourceforge.net/projects/tinyfiledialogs/)
 
 This version is all built in, with ZERO outside dependencies 
 
