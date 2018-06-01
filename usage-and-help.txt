@@ -1,4 +1,6 @@
-tiny file dialogs ( cross-platform C C++ ) v3.3.5 [Apr 18, 2018] zlib licence
+Compact Dialogs ( cross-platform C / C++ ) v0.0.0 [May 31, 2018]
+
+Forked from: TinyFileDialogs (https://sourceforge.net/projects/tinyfiledialogs/) under the zlib licence
  _________
 /         \   Beep Popup InputBox PasswordBox MessageBox ColorPicker
 |tiny file|   OpenFileDialog SaveFileDialog SelectFolderDialog
@@ -6,21 +8,12 @@ tiny file dialogs ( cross-platform C C++ ) v3.3.5 [Apr 18, 2018] zlib licence
 \____  ___/   Native dialog library for WINDOWS MAC OSX GTK+ QT CONSOLE
      \|       SSH support via automatic switch to console mode or X11 forwarding
 
-Please upvote my stackoverflow answer https://stackoverflow.com/a/47651444
+Tested with C & C++ compilers:
+MinGW
 
-C89 & C++98 compliant: tested with C & C++ compilers
-VisualStudio MinGW GCC Clang TinyCC OpenWatcom-v2 BorlandC SunCC ZapCC
-on Windows Mac Linux Bsd Solaris Minix Raspbian
-using Gnome Kde Mate Enlightenment Cinnamon Budgie Unity Lxde Lxqt Xfce
-      WindowMaker IceWm Cde Jds OpenBox Awesome Jwm Xdm
-
-Bindings for LUA and C# dll, Haskell. Included in LWJGL(java), Rust, Allegrobasic
-
-                   http://tinyfiledialogs.sourceforge.net
-         git clone http://git.code.sf.net/p/tinyfiledialogs/code tinyfd
   _________________________________________________________________________
  |                                                                         |
- | CONTACT me directly via the email address at the top of the header file |
+ | Contact me directly via the email address at the top of the header file |
  |_________________________________________________________________________|
                    _____________________________________
                   |                                     |
@@ -35,6 +28,8 @@ Bindings for LUA and C# dll, Haskell. Included in LWJGL(java), Rust, Allegrobasi
     | the windows only wchar_t UTF-16 prototypes are in the header file |
     |              NOW ALSO FOR THE INPUT / PASSWORD BOX                |
     |___________________________________________________________________|
+
+Included Functions:
 
 void tinyfd_beep() ;
 
